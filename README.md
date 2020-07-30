@@ -1,5 +1,5 @@
 <!-- <img align="right" src="https://user-images.githubusercontent.com/25294734/88893251-48eec880-d270-11ea-8cbb-1167b76763d1.gif" alt="bottom" width=450px height=465px> -->
-<img align="right" src="https://user-images.githubusercontent.com/25294734/88898294-b4d42f80-d276-11ea-8f7e-749b0633c536.gif" alt="bottom" width=320px>
+<img align="right" src="https://user-images.githubusercontent.com/25294734/88898294-b4d42f80-d276-11ea-8f7e-749b0633c536.gif" alt="bottom" width=340px>
 
 ### Hi there 👋
 
@@ -11,4 +11,8 @@ Here's a list of things I currently keep myself busy with: <br/>
 - 🌱 Studying Master Degree about Data Science  at **[NIDA](http://as.nida.ac.th/gsas/programs/master-business-analytics-and-data-science/ds-2019/)** 
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Kzis&show_icons=true)
+
+### All Badges 🏆
+![Capture](https://user-images.githubusercontent.com/25294734/88900632-dc78c700-d279-11ea-8407-a1c20873272b.PNG)
+
 
