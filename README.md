@@ -10,6 +10,6 @@ Here's a list of things I currently keep myself busy with: <br/>
 - 💻 Working as a back-end developer at **[We won't tell you LOL](https://google.com)** using [Spring boot](https://spring.io/projects/spring-boot) and [Python](https://www.python.org//)
 - ✍️ Writing tech blog posts over at **[medium](https://medium.com/@Chalach.mo)**.
 - 🌱 Studying Master Degree about Data Science  at **[NIDA](http://as.nida.ac.th/gsas/programs/master-business-analytics-and-data-science/ds-2019/)** 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Kzis)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Kzis.Kzis)
 
- ![My github stats](https://github-readme-stats.vercel.app/api?username=Kzis.Kzis&show_icons=true)
+ ![My github stats](https://github-readme-stats.vercel.app/api?username=Kzis&show_icons=true)
