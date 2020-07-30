@@ -1,5 +1,5 @@
 <!-- <img align="right" src="https://user-images.githubusercontent.com/25294734/88893251-48eec880-d270-11ea-8cbb-1167b76763d1.gif" alt="bottom" width=450px height=465px> -->
-<img align="left" src="https://user-images.githubusercontent.com/25294734/88898294-b4d42f80-d276-11ea-8f7e-749b0633c536.gif" alt="bottom">
+<img align="left" src="https://user-images.githubusercontent.com/25294734/88898294-b4d42f80-d276-11ea-8f7e-749b0633c536.gif" alt="bottom" width=430px>
 
 ### Hi there 👋
 
