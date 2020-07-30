@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-I like experimenting with new technologies(Programming , Machine Learning) , building project for poc ideas. ✨ <br/>
+I like experimenting with new technologies(Programming , Machine Learning) , building project for poc ideas. ✨ <br/><br/>
 Here's a list of things I currently keep myself busy with: <br/>
 
 - 💻 Working as a back-end developer at **[We won't tell you LOL](https://google.com)** using [Spring boot](https://spring.io/projects/spring-boot) and [Python](https://www.python.org//)
