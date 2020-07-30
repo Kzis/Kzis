@@ -1,4 +1,5 @@
-  <img align="right" src="https://user-images.githubusercontent.com/25294734/88893251-48eec880-d270-11ea-8cbb-1167b76763d1.gif" alt="bottom" width=350px height=465px>
+<!--   <img align="right" src="https://user-images.githubusercontent.com/25294734/88893251-48eec880-d270-11ea-8cbb-1167b76763d1.gif" alt="bottom" width=350px height=465px> -->
+<img align="right" src="https://user-images.githubusercontent.com/25294734/88893251-48eec880-d270-11ea-8cbb-1167b76763d1.gif" alt="bottom">
 
 ### Hi there 👋
 
