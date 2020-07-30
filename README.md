@@ -16,5 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-![front-end-developers-openings](https://user-images.githubusercontent.com/25294734/88893251-48eec880-d270-11ea-8cbb-1167b76763d1.gif)
+<hr>
+  <p align="center">
+    ![front-end-developers-openings](https://user-images.githubusercontent.com/25294734/88893251-48eec880-d270-11ea-8cbb-1167b76763d1.gif)
+  </p>
 
