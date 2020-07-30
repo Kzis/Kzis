@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 <hr>
   <p align="center">
-    ![front-end-developers-openings](https://user-images.githubusercontent.com/25294734/88893251-48eec880-d270-11ea-8cbb-1167b76763d1.gif)
+<!--     ![front-end-developers-openings](https://user-images.githubusercontent.com/25294734/88893251-48eec880-d270-11ea-8cbb-1167b76763d1.gif) -->
+    <img src="https://user-images.githubusercontent.com/25294734/88893251-48eec880-d270-11ea-8cbb-1167b76763d1.gif" alt="bottom">
   </p>
 
