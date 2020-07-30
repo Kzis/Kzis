@@ -1,6 +1,7 @@
+  <img align="right" src="https://user-images.githubusercontent.com/25294734/88893251-48eec880-d270-11ea-8cbb-1167b76763d1.gif" alt="bottom" width=350px height=465px>
+
 ### Hi there 👋
 
-<!--
 **Kzis/Kzis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,12 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-
-<hr>
-  <p align="center">
-<!--     ![front-end-developers-openings](https://user-images.githubusercontent.com/25294734/88893251-48eec880-d270-11ea-8cbb-1167b76763d1.gif) -->
-    <img src="https://user-images.githubusercontent.com/25294734/88893251-48eec880-d270-11ea-8cbb-1167b76763d1.gif" alt="bottom">
-  </p>
-
