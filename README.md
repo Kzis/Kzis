@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-![footer-wevoke-website-01](https://user-images.githubusercontent.com/25294734/88892764-8acb3f00-d26f-11ea-918a-9320d7bcb76d.gif)
+![front-end-developers-openings](https://user-images.githubusercontent.com/25294734/88893251-48eec880-d270-11ea-8cbb-1167b76763d1.gif)
 
