@@ -26,7 +26,9 @@ Here's a list of things I currently keep myself busy with: <br/>
   </a>
 </p>
 
+<!--
 ### All Badges 🏆
 ![Capture](https://user-images.githubusercontent.com/25294734/88900632-dc78c700-d279-11ea-8407-a1c20873272b.PNG)
+-->
 
 
