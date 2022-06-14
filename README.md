@@ -6,9 +6,9 @@
 I like experimenting with new technologies(Programming , Machine Learning) , building project for poc ideas. ✨ <br/><br/>
 Here's a list of things I currently keep myself busy with: <br/>
 
-- 💻 Working as a software engineer at **[SCB](https://careers.scb.co.th/)** using [Spring boot](https://spring.io/projects/spring-boot) and [Python](https://www.python.org//)
+- 💻 Working as a Machine Learning Engineer and Data Engineer
 - ✍️ Writing tech blog posts over at **[medium](https://medium.com/@Chalach.mo)**.
-- 🌱 Studying Master Degree about Data Science  at **[NIDA](http://as.nida.ac.th/gsas/programs/master-business-analytics-and-data-science/ds-2019/)** 
+- 🌱 Master Degree about Data Science  at **[NIDA](http://as.nida.ac.th/gsas/programs/master-business-analytics-and-data-science/ds-2019/)** 
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Kzis&show_icons=true)
 
